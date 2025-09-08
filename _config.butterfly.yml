@@ -45,18 +45,18 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://raw.gitmirror.com//ByteQuestor/picture/main/myhead.png
+favicon: https://raw.gitmirror.com/lcs124124/picture/main/lcs.jpg
 
 # Avatar (頭像)
 avatar:
-  img: https://raw.gitmirror.com//ByteQuestor/picture/main/myhead.png
+  img: https://raw.gitmirror.com/lcs124124/picture/main/lcs.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://raw.gitmirror.com/ByteQuestor/picture/main/WhatYourName.jpg
+index_img: https://raw.gitmirror.com/lcs124124/picture/main/main.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: /img/top.jpg
