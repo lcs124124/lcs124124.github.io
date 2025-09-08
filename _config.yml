@@ -3,18 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 王子阳の主页
 subtitle: ''
-description: ''
+description: '天地本无全'
 keywords:
-author: John Doe
-language: en
+author: 王子阳
+language: zh-CN 
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://lcs124124.github.io/
-## http://example.com
+url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -98,7 +97,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: butterfly
-### landscape
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
